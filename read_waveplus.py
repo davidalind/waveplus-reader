@@ -30,7 +30,7 @@ from bluepy.btle import UUID, Peripheral, Scanner, DefaultDelegate
 import sys
 import time
 import struct
-import tableprint
+#import tableprint
 
 # ===============================
 # Script guards for correct usage
